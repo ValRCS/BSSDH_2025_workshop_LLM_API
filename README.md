@@ -15,3 +15,9 @@ The 7th Baltic Summer School for Digital Humanities will be held in Riga at the 
 
 
 ![BSSDH2025Poster](https://raw.githubusercontent.com/ValRCS/BSSDH_2025_workshop_LLM_API/refs/heads/main/img/BalticDHforum_IN_1080x1920px-1-1.jpg)
+
+## About instructors
+
+Valdis Saulespurēns works as a researcher and developer at the National Library of Latvia. Additionally, he is a lecturer at Riga Technical University, where he teaches Python, JavaScript, and other computer science subjects. Valdis has a specialization in Machine Learning and Data Analysis, and he enjoys transforming disordered data into structured knowledge. With more than 30 years of programming experience, Valdis began his professional career by writing programs for quantum scientists at the University of California, Santa Barbara. Before moving into teaching, he developed software for a radio broadcast equipment manufacturer. Valdis holds a Master's degree in Computer Science from the University of Latvia. When not working or spending time with his family, Valdis enjoys biking and playing chess, sometimes even at the same time.
+
+Anda Baklāne is a researcher and curator of digital research services at the National Library of Latvia. She teaches Introduction to Digital Humanities and Digital Social Sciences and Text Analysis and Visualization courses at the University of Latvia. Anda holds a master’s degree in philosophy and a PhD in literary theory. Her research interests include Latvian contemporary literature, metaphor, models, distant reading, and academic data visualization.
