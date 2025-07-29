@@ -1,9 +1,9 @@
 # BSSDH_2025_workshop_LLM_API
-[Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/) - workshop on LLM API usage
 
-This Repository: [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API)
-
-Data repository for this workshop: [https://github.com/LNB-DH/BSSDH_2025_workshop_data](https://github.com/LNB-DH/BSSDH_2025_workshop_data)
+## Useful Links
+- [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/) - workshop on LLM API usage
+- [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API) - main workshop materials and notebooks
+- [https://github.com/LNB-DH/BSSDH_2025_workshop_data](https://github.com/LNB-DH/BSSDH_2025_workshop_data) - datasets used in workshop exercises
 
 ## Workshop Notebooks
 *💡 Tip: Right-click on the Colab badges below and select "Open link in new tab" to keep this page open while working with the notebooks.*
