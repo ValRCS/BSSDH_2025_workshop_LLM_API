@@ -1,6 +1,6 @@
 # BSSDH_2025_workshop_LLM_API
 
-- [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/) - About BSSDH 2025
+[Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/) - About BSSDH 2025
 - [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API) - this repository with main workshop materials and notebooks
 - [https://github.com/LNB-DH/BSSDH_2025_workshop_data](https://github.com/LNB-DH/BSSDH_2025_workshop_data) - datasets used in workshop exercises
 
@@ -11,7 +11,7 @@
 
 - **Workshop Session 2 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_2.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**Workshop Session 3 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_3.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- **Workshop Session 3 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_3.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Workshop - Using LLMs in Humanities Research via API held on August 7th 2025
 
