@@ -5,11 +5,11 @@ This Repository: [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https:/
 
 Data repository for this workshop: [https://github.com/LNB-DH/BSSDH_2025_workshop_data](https://github.com/LNB-DH/BSSDH_2025_workshop_data)
 
-**Workshop Session 1 in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_1.ipynb)
+**Workshop Session 1 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_1.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**Workshop Session 2 in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_2.ipynb)
+**Workshop Session 2 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_2.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**Workshop Session 3 in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_3.ipynb)
+**Workshop Session 3 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_3.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Workshop - Using LLMs in Humanities Research via API held on August 7th 2025
 
