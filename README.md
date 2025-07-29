@@ -7,6 +7,10 @@ Data repository for this workshop: [https://github.com/LNB-DH/BSSDH_2025_worksho
 
 **Workshop Session 1 in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_1.ipynb)
 
+**Workshop Session 2 in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_2.ipynb)
+
+**Workshop Session 3 in Google Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_3.ipynb)
+
 ## Workshop - Using LLMs in Humanities Research via API held on August 7th 2025
 
 In this workshop, participants will learn how to access large language models via API and utilize them for bulk data analysis using Python. Through practical examples, we will explore prompt engineering techniques for tasks such as concept mining and named entity recognition in textual data. Additionally, we will examine challenges associated with historical digitized texts, including optical character recognition (OCR) errors, which may affect compatibility with language models. Participants will gain insights into how these models can be leveraged for error correction and translation, enhancing the usability of imperfect textual data.
