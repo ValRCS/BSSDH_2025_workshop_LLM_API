@@ -1,16 +1,15 @@
 # BSSDH_2025_workshop_LLM_API
 
-## Useful Links
-- [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/) - workshop on LLM API usage
-- [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API) - main workshop materials and notebooks
+- [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/) - About BSSDH 2025
+- [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API) - this repository with main workshop materials and notebooks
 - [https://github.com/LNB-DH/BSSDH_2025_workshop_data](https://github.com/LNB-DH/BSSDH_2025_workshop_data) - datasets used in workshop exercises
 
 ## Workshop Notebooks
 *💡 Tip: Right-click on the Colab badges below and select "Open link in new tab" to keep this page open while working with the notebooks.*
 
-**Workshop Session 1 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_1.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- **Workshop Session 1 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_1.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**Workshop Session 2 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_2.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- **Workshop Session 2 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_2.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Workshop Session 3 in Google Colab**: <a href="https://colab.research.google.com/github/ValRCS/BSSDH_2025_workshop_LLM_API/blob/main/notebooks/workshop_session_3.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
