@@ -1,6 +1,6 @@
 # BSSDH_2025_workshop_LLM_API
 
-<div style="text-align: center;">
+<div align="center">
 
 [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/)
 
