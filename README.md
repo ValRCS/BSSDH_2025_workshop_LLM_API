@@ -1,10 +1,8 @@
 # BSSDH_2025_workshop_LLM_API
 
-<div align="center">
 
-[Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/)
+About [Baltic Summer School of Digital Humanities 2025](https://www.digitalhumanities.lv/bssdh/2025/about/)
 
-</div>
 
 - [https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API) - this repository with main workshop materials and notebooks
 - [https://github.com/LNB-DH/BSSDH_2025_workshop_data](https://github.com/LNB-DH/BSSDH_2025_workshop_data) - datasets used in workshop exercises
